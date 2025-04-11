@@ -7,6 +7,7 @@
 
 #comshop
 1613516278:2025-03-30 #macky comshop
+3492950931:PERMANENT #jam comshop
 
 #paid
 840499973:PERMANENT #jam
