@@ -8,7 +8,8 @@
 
 ###################  COMSHOP
 //1613516278:2025-03-30 #macky comshop
-3492950931:PERMANENT #jam comshop
+3492950931:PERMANENT  #jam comshop
+3492950931:PERMANENT  #jam
 
 ###################  VG
 //3334647341:2025-07-08  #ace
