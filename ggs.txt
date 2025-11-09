@@ -12,7 +12,7 @@
 1108674871:PERMANENT  #riso
 1476053209:PERMANENT  #starla
 2048444368:PERMANENT  #shoe
-
+76968533:PERMANENT    #buratusi
 
 ###################  COMSHOP
 //1613516278:2025-03-30 #macky comshop
@@ -54,6 +54,7 @@
 ###################  OTHERS
 //1920950071:2025-04-21  #shtty
 //369207155:2025-04-21  #kidlat
+
 
 
 
