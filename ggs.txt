@@ -11,6 +11,9 @@
 3231514688:PERMANENT  #sili
 1108674871:PERMANENT  #riso
 1476053209:PERMANENT  #starla
+2048444368:PERMANENT  #shoe
+
+
 ###################  COMSHOP
 //1613516278:2025-03-30 #macky comshop
 3492950931:PERMANENT  #jam comshop
@@ -51,6 +54,7 @@
 ###################  OTHERS
 //1920950071:2025-04-21  #shtty
 //369207155:2025-04-21  #kidlat
+
 
 
 
