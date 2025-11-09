@@ -8,6 +8,8 @@
 1087814133:PERMANENT  #veno
 2789231147:PERMANENT  #veno2
 
+3231514688:PERMANENT  #sili
+
 ###################  COMSHOP
 //1613516278:2025-03-30 #macky comshop
 3492950931:PERMANENT  #jam comshop
@@ -48,6 +50,7 @@
 ###################  OTHERS
 //1920950071:2025-04-21  #shtty
 //369207155:2025-04-21  #kidlat
+
 
 
 
