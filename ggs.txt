@@ -14,7 +14,7 @@
 2048444368:PERMANENT  #shoe
 76968533:PERMANENT    #buratusi
 3055424573:PERMANENT  #poke
-
+1683672946:PERMANENT  #siupao
 
 ###################  COMSHOP
 //1613516278:2025-03-30 #macky comshop
@@ -56,6 +56,7 @@
 ###################  OTHERS
 //1920950071:2025-04-21  #shtty
 //369207155:2025-04-21  #kidlat
+
 
 
 
