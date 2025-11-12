@@ -16,6 +16,7 @@
 3055424573:PERMANENT  #poke
 1683672946:PERMANENT  #siupao
 1591695468:PERMANENT  #shane
+1042668636:PERMANENT  #server/pat
 
 ###################  COMSHOP
 //1613516278:2025-03-30 #macky comshop
@@ -57,6 +58,7 @@
 ###################  OTHERS
 //1920950071:2025-04-21  #shtty
 //369207155:2025-04-21  #kidlat
+
 
 
 
