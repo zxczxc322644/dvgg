@@ -10,17 +10,17 @@
 1087814133:PERMANENT  #veno
 2789231147:PERMANENT  #veno2
 
-3231514688:PERMANENT  #sili https://www.facebook.com/okkiN26
-1108674871:PERMANENT  #riso https://www.facebook.com/profile.php?id=61559045640641
-1476053209:PERMANENT  #starla https://www.facebook.com/prince.aldava
-2048444368:PERMANENT  #shoe https://www.facebook.com/mark.a.briquilloii
-76968533:PERMANENT    #buratusi https://www.facebook.com/PAKERAKOlelz
-3055424573:PERMANENT  #poke https://www.facebook.com/RDOneee
-1683672946:PERMANENT  #siupao https://www.facebook.com/Justme.Paowey
-1591695468:PERMANENT  #shane https://www.facebook.com/shane.cardoza.2024
-1042668636:PERMANENT  #server/pat https://www.facebook.com/patrickangelo.laxamana
-3834644570:PERMANENT  #rex https://www.facebook.com/Rexpetate
-3807083189:PERMANENT  #celestial https://www.facebook.com/rhyann.advincula.9
+3231514688:PERMANENT  #sili|https://www.facebook.com/okkiN26
+1108674871:PERMANENT  #riso|https://www.facebook.com/profile.php?id=61559045640641
+1476053209:PERMANENT  #starla|https://www.facebook.com/prince.aldava
+2048444368:PERMANENT  #shoe|https://www.facebook.com/mark.a.briquilloii
+76968533:PERMANENT    #buratusi|https://www.facebook.com/PAKERAKOlelz
+3055424573:PERMANENT  #poke|https://www.facebook.com/RDOneee
+1683672946:PERMANENT  #siupao|https://www.facebook.com/Justme.Paowey
+1591695468:PERMANENT  #shane|https://www.facebook.com/shane.cardoza.2024
+1042668636:PERMANENT  #server/pat|https://www.facebook.com/patrickangelo.laxamana
+3834644570:PERMANENT  #rex|https://www.facebook.com/Rexpetate
+3807083189:PERMANENT  #celestial|https://www.facebook.com/rhyann.advincula.9
 
 ###################  COMSHOP
 //1613516278:2025-03-30 #macky comshop
@@ -62,6 +62,7 @@
 ###################  OTHERS
 //1920950071:2025-04-21  #shtty
 //369207155:2025-04-21  #kidlat
+
 
 
 
