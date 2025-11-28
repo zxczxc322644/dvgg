@@ -21,6 +21,7 @@
 1042668636:PERMANENT  #server/pat|https://www.facebook.com/patrickangelo.laxamana
 3834644570:PERMANENT  #rex|https://www.facebook.com/Rexpetate
 3807083189:PERMANENT  #celestial|https://www.facebook.com/rhyann.advincula.9
+1491034941:PERMANENT  #nexus|https://www.facebook.com/dzii.poii
 
 ###################  COMSHOP
 //1613516278:2025-03-30 #macky comshop
@@ -62,6 +63,7 @@
 ###################  OTHERS
 //1920950071:2025-04-21  #shtty
 //369207155:2025-04-21  #kidlat
+
 
 
 
