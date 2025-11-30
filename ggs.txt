@@ -10,11 +10,11 @@
 1087814133:PERMANENT  #veno
 2789231147:PERMANENT  #veno2
 
+76968533:PERMANENT    #buratusi|https://www.facebook.com/PAKERAKOlelz
 3231514688:PERMANENT  #sili|https://www.facebook.com/okkiN26
 1108674871:PERMANENT  #riso|https://www.facebook.com/profile.php?id=61559045640641
 1476053209:PERMANENT  #starla|https://www.facebook.com/prince.aldava
 2048444368:PERMANENT  #shoe|https://www.facebook.com/mark.a.briquilloii
-76968533:PERMANENT    #buratusi|https://www.facebook.com/PAKERAKOlelz
 3055424573:PERMANENT  #poke|https://www.facebook.com/RDOneee
 1683672946:PERMANENT  #siupao|https://www.facebook.com/Justme.Paowey
 1591695468:PERMANENT  #shane|https://www.facebook.com/shane.cardoza.2024
@@ -67,6 +67,7 @@
 ###################  OTHERS
 //1920950071:2025-04-21  #shtty
 //369207155:2025-04-21  #kidlat
+
 
 
 
