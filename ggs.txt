@@ -22,8 +22,10 @@
 3834644570:PERMANENT  #rex|https://www.facebook.com/Rexpetate
 3807083189:PERMANENT  #celestial|https://www.facebook.com/rhyann.advincula.9
 1491034941:PERMANENT  #nexus|https://www.facebook.com/dzii.poii
+3289772510:PERMANENT  #marky|https://www.facebook.com/dondon.nadal
+
+
 //415410663:PERMANENT  #tagapana|https://www.facebook.com/mathewtamayo
-3289772510:PERMANENT  #marky
 
 ###################  COMSHOP
 //1613516278:2025-03-30 #macky comshop
@@ -65,6 +67,7 @@
 ###################  OTHERS
 //1920950071:2025-04-21  #shtty
 //369207155:2025-04-21  #kidlat
+
 
 
 
