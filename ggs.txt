@@ -11,6 +11,7 @@
 2789231147:PERMANENT  #veno2
 
 76968533:PERMANENT    #buratusi|https://www.facebook.com/PAKERAKOlelz
+3459280145:PERMANENT  #buratusi2|https://www.facebook.com/PAKERAKOlelz
 3231514688:PERMANENT  #sili|https://www.facebook.com/okkiN26
 1108674871:PERMANENT  #riso|https://www.facebook.com/profile.php?id=61559045640641
 1476053209:PERMANENT  #starla|https://www.facebook.com/prince.aldava
@@ -23,7 +24,6 @@
 3807083189:PERMANENT  #celestial|https://www.facebook.com/rhyann.advincula.9
 1491034941:PERMANENT  #nexus|https://www.facebook.com/dzii.poii
 3289772510:PERMANENT  #marky|https://www.facebook.com/dondon.nadal
-3459280145:PERMANENT
 
 //415410663:PERMANENT  #tagapana|https://www.facebook.com/mathewtamayo
 
@@ -67,6 +67,7 @@
 ###################  OTHERS
 //1920950071:2025-04-21  #shtty
 //369207155:2025-04-21  #kidlat
+
 
 
 
