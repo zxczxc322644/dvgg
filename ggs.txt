@@ -24,8 +24,8 @@
 3807083189:PERMANENT  #celestial|https://www.facebook.com/rhyann.advincula.9
 1491034941:PERMANENT  #nexus|https://www.facebook.com/dzii.poii
 3289772510:PERMANENT  #marky|https://www.facebook.com/dondon.nadal
-2047114179:PERMANENT
-1689534340:PERMANENT
+2047114179:PERMANENT  #co-gl stardew
+1689534340:PERMANENT  #marky2
 
 415410663:PERMANENT  #tagapana|https://www.facebook.com/mathewtamayo
 
@@ -69,6 +69,7 @@
 ###################  OTHERS
 //1920950071:2025-04-21  #shtty
 //369207155:2025-04-21  #kidlat
+
 
 
 
