@@ -29,8 +29,9 @@
 4237941791:PERMANENT  #jang-balagbag
 4061981225:PERMANENT  #ginger
 3999593312:PERMANENT  #ginger2
-2120803677:PERMANENT  #God
+2120803677:PERMANENT  #God-balagbag
 3271400162:PERMANENT  #bowz
+1968580051:PERMANENT  #gl-kumander-balagbag
 
 415410663:PERMANENT  #tagapana|https://www.facebook.com/mathewtamayo
 
@@ -74,6 +75,7 @@
 ###################  OTHERS
 //1920950071:2025-04-21  #shtty
 //369207155:2025-04-21  #kidlat
+
 
 
 
