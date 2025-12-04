@@ -28,6 +28,7 @@
 2047114179:PERMANENT  #co-gl stardew-balagbag
 4237941791:PERMANENT  #jang-balagbag
 4061981225:PERMANENT  #ginger
+3999593312:PERMANENT  #ginger2
 2120803677:PERMANENT  #God
 3271400162:PERMANENT  #bowz
 
@@ -73,6 +74,7 @@
 ###################  OTHERS
 //1920950071:2025-04-21  #shtty
 //369207155:2025-04-21  #kidlat
+
 
 
 
