@@ -25,9 +25,10 @@
 1491034941:PERMANENT  #nexus|https://www.facebook.com/dzii.poii
 3289772510:PERMANENT  #marky|https://www.facebook.com/dondon.nadal
 1689534340:PERMANENT  #marky2
-2047114179:PERMANENT  #co-gl stardew
-4237941791:PERMANENT  #jang
+2047114179:PERMANENT  #co-gl stardew-balagbag
+4237941791:PERMANENT  #jang-balagbag
 4061981225:PERMANENT  #ginger
+2120803677:PERMANENT  #God-balagbag
 
 415410663:PERMANENT  #tagapana|https://www.facebook.com/mathewtamayo
 
@@ -71,6 +72,7 @@
 ###################  OTHERS
 //1920950071:2025-04-21  #shtty
 //369207155:2025-04-21  #kidlat
+
 
 
 
