@@ -10,22 +10,22 @@
 1087814133:PERMANENT  #veno
 2789231147:PERMANENT  #veno2
 
-76968533:PERMANENT    #buratusi|https://www.facebook.com/PAKERAKOlelz
-3459280145:PERMANENT  #buratusi2|https://www.facebook.com/PAKERAKOlelz
-3231514688:PERMANENT  #sili|https://www.facebook.com/okkiN26
-1108674871:PERMANENT  #riso|https://www.facebook.com/profile.php?id=61559045640641
-1476053209:PERMANENT  #starla|https://www.facebook.com/prince.aldava
-//2048444368:PERMANENT  #shoe|https://www.facebook.com/mark.a.briquilloii
-3055424573:PERMANENT  #poke|https://www.facebook.com/RDOneee
-1683672946:PERMANENT  #siupao|https://www.facebook.com/Justme.Paowey
-1591695468:PERMANENT  #shane|https://www.facebook.com/shane.cardoza.2024
-1042668636:PERMANENT  #server/pat|https://www.facebook.com/patrickangelo.laxamana
-3834644570:PERMANENT  #rex|https://www.facebook.com/Rexpetate
-3807083189:PERMANENT  #celestial|https://www.facebook.com/rhyann.advincula.9
-1491034941:PERMANENT  #nexus|https://www.facebook.com/dzii.poii
-3289772510:PERMANENT  #marky|https://www.facebook.com/dondon.nadal
+76968533:PERMANENT    #buratusi
+3459280145:PERMANENT  #buratusi2
+3231514688:PERMANENT  #sili
+1108674871:PERMANENT  #riso
+1476053209:PERMANENT  #starla
+//2048444368:PERMANENT  #shoe
+3055424573:PERMANENT  #poke
+1683672946:PERMANENT  #siupao
+1591695468:PERMANENT  #shane
+1042668636:PERMANENT  #server/pat
+3834644570:PERMANENT  #rex
+3807083189:PERMANENT  #celestial
+1491034941:PERMANENT  #nexus
+3289772510:PERMANENT  #marky
 1689534340:PERMANENT  #marky2
-2047114179:PERMANENT  #co-gl stardew-balagbag
+2047114179:PERMANENT  #stardew-balagbag
 4237941791:PERMANENT  #jang-balagbag
 4061981225:PERMANENT  #ginger
 3999593312:PERMANENT  #ginger2
@@ -79,6 +79,7 @@
 ###################  OTHERS
 //1920950071:2025-04-21  #shtty
 //369207155:2025-04-21  #kidlat
+
 
 
 
