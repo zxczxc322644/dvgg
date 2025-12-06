@@ -31,7 +31,7 @@
 3999593312:PERMANENT  #ginger2
 2120803677:PERMANENT  #God-balagbag
 3271400162:PERMANENT  #bowz
-1968580051:PERMANENT  #gl-kumander-balagbag
+1583014329:PERMANENT  #gl-kumander-balagbag
 2933004947:PERMANENT  #madbald-balagbag
 1377598819:PERMANENT  #jabee
 3930163104:PERMANENT  #shane
@@ -39,6 +39,7 @@
 308647712:PERMANENT  #xixi
 3897139590:PERMANENT  #kiga
 3122014565:PERMANENT  #daks
+
 
 415410663:PERMANENT  #tagapana|https://www.facebook.com/mathewtamayo
 
@@ -82,6 +83,7 @@
 ###################  OTHERS
 //1920950071:2025-04-21  #shtty
 //369207155:2025-04-21  #kidlat
+
 
 
 
