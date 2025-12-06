@@ -37,6 +37,7 @@
 3930163104:PERMANENT  #shane
 3331921751:PERMANENT  #ysang
 308647712:PERMANENT  #xixi
+3897139590:PERMANENT  #kiga
 
 415410663:PERMANENT  #tagapana|https://www.facebook.com/mathewtamayo
 
@@ -80,6 +81,7 @@
 ###################  OTHERS
 //1920950071:2025-04-21  #shtty
 //369207155:2025-04-21  #kidlat
+
 
 
 
