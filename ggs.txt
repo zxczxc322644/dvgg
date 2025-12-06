@@ -34,7 +34,7 @@
 1968580051:PERMANENT  #gl-kumander-balagbag
 2933004947:PERMANENT  #madbald-balagbag
 1377598819:PERMANENT  #jabee
-3930163104:PERMANENT
+3930163104:PERMANENT  #shane
 
 415410663:PERMANENT  #tagapana|https://www.facebook.com/mathewtamayo
 
@@ -78,6 +78,7 @@
 ###################  OTHERS
 //1920950071:2025-04-21  #shtty
 //369207155:2025-04-21  #kidlat
+
 
 
 
