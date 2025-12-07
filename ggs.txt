@@ -39,7 +39,7 @@
 308647712:PERMANENT  #xixi
 3897139590:PERMANENT  #kiga
 3122014565:PERMANENT  #daks
-415410663:PERMANENT
+415410663:PERMANENT  #tagapana
 
 ###################  COMSHOP
 //1613516278:2025-03-30 #macky comshop
@@ -62,9 +62,10 @@
 //1819032578:2025-07-08  #crazykid
 
 ################### BETA FRIENDS
-878801963:PERMANENT  #beta
-3829168960:PERMANENT  #maple
-2185566676:PERMANENT  #posei
+878801963:PERMANENT  #beta-core
+3829168960:PERMANENT  #maple-core
+2185566676:PERMANENT  #posei-core
+1525500931:PERMANENT  #dads-core
 
 ###################  FRIENDS
 //845865514:2020-04-21  #shoe
@@ -81,6 +82,7 @@
 ###################  OTHERS
 //1920950071:2025-04-21  #shtty
 //369207155:2025-04-21  #kidlat
+
 
 
 
