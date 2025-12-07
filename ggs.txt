@@ -40,7 +40,7 @@
 3897139590:PERMANENT  #kiga
 3122014565:PERMANENT  #daks
 415410663:PERMANENT  #tagapana
-1410610094:PERMANENT
+1410610094:PERMANENT  #chuuy
 
 ###################  COMSHOP
 //1613516278:2025-03-30 #macky comshop
@@ -83,6 +83,7 @@
 ###################  OTHERS
 //1920950071:2025-04-21  #shtty
 //369207155:2025-04-21  #kidlat
+
 
 
 
