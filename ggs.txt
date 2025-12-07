@@ -67,6 +67,7 @@
 3829168960:PERMANENT  #maple-core
 2185566676:PERMANENT  #posei-core
 1525500931:PERMANENT  #dads-core
+2055011132:PERMANENT  #2secs-core
 
 ###################  FRIENDS
 //845865514:2020-04-21  #shoe
@@ -83,6 +84,7 @@
 ###################  OTHERS
 //1920950071:2025-04-21  #shtty
 //369207155:2025-04-21  #kidlat
+
 
 
 
