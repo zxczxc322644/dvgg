@@ -62,9 +62,9 @@
 //1819032578:2025-07-08  #crazykid
 
 ################### BETA FRIENDS
-//878801963:PERMANENT  #beta
-//3829168960:PERMANENT  #maple
-//2185566676:PERMANENT  #posei
+878801963:PERMANENT  #beta
+3829168960:PERMANENT  #maple
+2185566676:PERMANENT  #posei
 
 ###################  FRIENDS
 //845865514:2020-04-21  #shoe
@@ -81,6 +81,7 @@
 ###################  OTHERS
 //1920950071:2025-04-21  #shtty
 //369207155:2025-04-21  #kidlat
+
 
 
 
