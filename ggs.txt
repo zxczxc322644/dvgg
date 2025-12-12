@@ -50,6 +50,8 @@
 3055331525:PERMANENT  #r4ze
 2527398991:PERMANENT  #r4ze2
 1842311439:PERMANENT  #nel-balagbag
+3969494950:PERMANENT
+
 
 ###################  COMSHOP
 //1613516278:2025-03-30 #macky comshop
@@ -94,6 +96,7 @@
 ###################  OTHERS
 //1920950071:2025-04-21  #shtty
 //369207155:2025-04-21  #kidlat
+
 
 
 
