@@ -54,6 +54,7 @@
 805669382:PERMANENT  #ukisabam
 13517505:PERMANENT  #soriano
 3701334295:PERMANENT  #skye
+854338631:PERMANENT
 
 
 ###################  COMSHOP
@@ -99,6 +100,7 @@
 ###################  OTHERS
 //1920950071:2025-04-21  #shtty
 //369207155:2025-04-21  #kidlat
+
 
 
 
