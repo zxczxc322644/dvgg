@@ -16,7 +16,7 @@
 ###################  QPAL
 76968533:PERMANENT    #buratusi
 3459280145:PERMANENT  #buratusi2
-3231514688:PERMANENT  #sili
+//3231514688:PERMANENT  #sili
 1591695468:PERMANENT  #shane
 //1042668636:PERMANENT  #server/pat
 3807083189:PERMANENT  #celestial
@@ -109,6 +109,7 @@
 ###################  OTHERS
 //1920950071:2025-04-21  #shtty
 //369207155:2025-04-21  #kidlat
+
 
 
 
