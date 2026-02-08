@@ -95,6 +95,7 @@
 2055011132:PERMANENT  #2secs-core
 787241993:PERMANENT  #bry-core
 3271400162:PERMANENT  #bowz-core
+3623894044:PERMANENT  #1sec
 
 ###################  FRIENDS
 //845865514:2020-04-21  #shoe
@@ -111,6 +112,7 @@
 ###################  OTHERS
 //1920950071:2025-04-21  #shtty
 //369207155:2025-04-21  #kidlat
+
 
 
 
